@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    
+
+        <table border="1" width="50%">
+            <tr >
+              <th>Popolazione Italia ( millioni di abitanti )</th>
+              <th>Superficie(Km quadrati)</th>
+            </tr>
+            <tr>
+            <td>Italia settentrionale</td>
+             <td>27.774.607</td>
+            </tr>
+            <tr>
+            <td colspas="2">Italia centrale</td>
+            <td colspas="3">11.955.642</td>
+            <td>301.340</td>
+            <td>201,57 ab/per Km quadrati</td>
+            </tr>
+            <tr>
+            <td>Italia meridionale</td>
+            <td>14.183.716</td>
+            </tr>
+            </table>
+  
+</body>
+</html>
